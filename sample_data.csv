@@ -1,0 +1,23 @@
+order_id,customer_name,product,category,quantity,unit_price,total_price,order_date,region,status
+1001,Alice Johnson,Laptop Pro,Electronics,1,1299.99,1299.99,05-01-2024,North,Delivered
+1002,Bob Smith,Wireless Mouse,Electronics,3,29.99,89.97,07-01-2024,South,Delivered
+1003,Carol White,Office Chair,Furniture,2,349.5,699,09-01-2024,East,Shipped
+1004,David Lee,Notebook Set,Stationery,10,8.99,89.9,10-01-2024,West,Delivered
+1005,Emma Davis,Monitor 4K,Electronics,1,599,599,12-01-2024,North,Pending
+1006,Frank Brown,Standing Desk,Furniture,1,799,799,14-01-2024,South,Delivered
+1007,Grace Kim,Keyboard Mech,Electronics,2,149.99,299.98,15-01-2024,East,Delivered
+1008,Henry Wilson,Pen Pack,Stationery,20,2.5,50,17-01-2024,West,Shipped
+1009,Iris Turner,Webcam HD,Electronics,1,89,89,19-01-2024,North,Cancelled
+1010,Jack Martin,Bookshelf,Furniture,1,199,199,20-01-2024,South,Delivered
+1011,Alice Johnson,USB Hub,Electronics,2,35,70,22-01-2024,North,Delivered
+1012,Bob Smith,Desk Lamp,Furniture,1,75.99,75.99,24-01-2024,South,Pending
+1013,Carol White,Laptop Pro,Electronics,1,1299.99,1299.99,26-01-2024,East,Delivered
+1014,David Lee,Monitor 4K,Electronics,2,599,1198,28-01-2024,West,Shipped
+1015,Emma Davis,Office Chair,Furniture,1,349.5,349.5,30-01-2024,North,Delivered
+1016,Frank Brown,Notebook Set,Stationery,5,8.99,44.95,01-02-2024,South,Delivered
+1017,Grace Kim,Laptop Pro,Electronics,1,1299.99,1299.99,03-02-2024,East,Pending
+1018,Henry Wilson,Standing Desk,Furniture,2,799,1598,05-02-2024,West,Delivered
+1019,Iris Turner,Keyboard Mech,Electronics,1,149.99,149.99,07-02-2024,North,Delivered
+1020,Jack Martin,USB Hub,Electronics,3,35,105,09-02-2024,South,Shipped
+1021,jammy,meter,Electronics,4,60,19990,########,Dallas,North
+1022,,,,,,,,,
